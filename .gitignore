@@ -2,4 +2,4 @@ node_modules/*
 results/*
 
 input.txt
-.env
+.envnpm-debug.log
